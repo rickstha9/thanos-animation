@@ -1,0 +1,9 @@
+
+
+@media(max-width:650px){
+    .main-txt div{
+        padding-left: 70px;
+        margin-left:-60px;
+       font-size: 15px;
+   }
+}
